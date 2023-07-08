@@ -6,6 +6,8 @@
 
 💬 I love reading historical books and also financial literacy as well! 
 
+🌲 I LOVE DATA STRUCTURES! TREES ALL THE WAY!!! 🌲
+
 
 
 
