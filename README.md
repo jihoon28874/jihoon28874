@@ -4,6 +4,9 @@ I am a fourth year student pursuing a Bachelor's in Computer Science and Data Sc
 
 I am excited to contribute my skills and knowledge to tackle complex projects, drive innovation, and make a meaningful impact in the ever-evolving world of technology. Driven by a passion for continuous learning, I actively keep up with the latest advancements and emerging technologies in the world of computer science as well.
 
+![image](https://github.com/jihoon28874/jihoon28874/assets/107959175/d681973e-18c8-4a94-9cff-a26ec2c5ed67)
+
+
 <!--
 **jihoon28874/jihoon28874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
