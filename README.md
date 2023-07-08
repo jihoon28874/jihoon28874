@@ -4,10 +4,9 @@
 
 👯 I am excited to contribute my skills and knowledge to tackle complex projects, drive innovation, and make a meaningful impact in the ever-evolving world of technology. Driven by a passion for continuous learning, I actively keep up with the latest advancements and emerging technologies in the world of computer science as well.
 
-I love reading historical books and also financial literacy as well! 
+💬 I love reading historical books and also financial literacy as well! 
 
 
-![image](https://github.com/jihoon28874/jihoon28874/assets/107959175/d681973e-18c8-4a94-9cff-a26ec2c5ed67)
 
 
 <!--
