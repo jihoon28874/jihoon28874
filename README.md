@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![image](https://github.com/jihoon28874/jihoon28874/assets/107959175/40567c2e-b46f-4c2c-9dcc-be712e7af626)
 
 <!--
 **jihoon28874/jihoon28874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
