@@ -4,15 +4,6 @@
 
 👯 I am excited to contribute my skills and knowledge to tackle complex projects, drive innovation, and make a meaningful impact in the ever-evolving world of technology. Driven by a passion for continuous learning, I actively keep up with the latest advancements and emerging technologies in the world of computer science as well.
 
-💬 I love reading historical books and also financial literacy as well! 
-
-I am also an avid sports fan who loves both playing and watching basketball, football, baseball, and soccer!
-
-GO WARRIORS!![image](https://github.com/jihoon28874/jihoon28874/assets/107959175/82b73d56-e0aa-4a1d-92e0-e4d90de81e5f)
-
-
-🌲 I LOVE DATA STRUCTURES! TREES ALL THE WAY!!! 🌲
-
 
 
 
